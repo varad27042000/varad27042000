@@ -14,7 +14,7 @@
 - 🎸 **Fun Fact:** I once considered automating my meal planning using Python! 🍽️  
 
 📂 **My Portfolio & Projects:**  
-🚀 **[Check out my work here!](https://varad27042000.github.io/myPortfolio/)**  
+🚀 **[Check out my work here!](https://varadraj-portfolio.vercel.app/)**  
 
 📬 **Reach Me At:**  
 📧 **Email:** [varadrajkini88@gmail.com](mailto:varadrajkini88@gmail.com)  
